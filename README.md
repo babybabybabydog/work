@@ -1,7 +1,5 @@
 
 
-![Logo](https://img.neters.club/github/studentachievelogo.png)
-
  学生管理系统：ASP.NetCore3.1 + Vue + EleUI
  
  > PS：当前版本只是我的一个练手项目，并不是商业化产品，在多表的处理上，没有用到mapper联查，而是所有数据都查出来，这种方式数据多了肯定会慢(当然，如果start100+，证明有人用，我会升级改造的)，所以目前大家不用过多的关注性能问题，主要是**业务逻辑的梳理**；  
@@ -43,11 +41,9 @@
  7、Autofac 作为依赖注入容器，提供程序集批量注册；
  8、支持上传 Excel 做数据导入；
  9、Log4net 负责日志处理；
- 10、支持事务提交；
+ 10、成绩可视化；
  ```
- ※、核心的还是教学教务系统的结构设计：  
- ![tables](http://img.neters.club/github/2020-06-23_114632.png)
- 
+
  
 
  ### 前端  	`Student.Achieve.UI` 为 `Blog.Admin`  项目的使用版本，有一定的出入：
