@@ -10,11 +10,7 @@
  
  #### 后端：  
  直接F5运行项目；
- 
- 成功页面：   
- 
-![api](http://img.neters.club/github/WeChat%20Image_20200623110457.png)
-   
+
    
      
      
